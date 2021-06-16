@@ -1,7 +1,9 @@
 #include<stdio.h>
+int sum(int x,int y)
+{
+	return (x+y);
+}
 int main()
 {
-	int a=100;
-	int b=90;
-	printf(a+b);
+	return sum(30,78);
 }
