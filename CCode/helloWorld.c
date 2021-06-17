@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 void greeting(char name[]);
-
+void HelloWorld();
 int main() {
         char name[] = "Alia Bhat"
         greeting(name);
